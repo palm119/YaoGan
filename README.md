@@ -1,6 +1,6 @@
 # YaoGan
 
-Extension for YaoGan V1.0
+Extension for micro:bit YaoGan V1.0
 
 ## License
 
